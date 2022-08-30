@@ -1,0 +1,68 @@
+body {
+  margin: 0px;
+  background: #f5f0f0;
+  color: rgb(61, 33, 4);
+  font-family: 'Anton', sans-serif;
+
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 40px;
+
+}
+
+.social-icones {
+  width: 40px;
+}
+
+.javascript {
+  margin: 10px;
+}
+
+.social-links {
+  text-decoration: none;
+}
+
+.foto {
+  height: 200px;
+  padding: 20px;
+  border-radius: 50%;
+  margin: 30px 30px 0px 10px;
+  border: 2px solid rgb(75, 84, 88);
+  box-shadow: 12px 12px 12px rgba(49, 49, 161, 0.5);
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  letter-spacing: -1px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-weight: 100;
+  font-style: italic;
+  letter-spacing: 1px;
+  color: rgb(17, 110, 216);
+}
+
+.circulo {
+  margin: -10px;
+  list-style: none;
+}
+
+.footer {
+  margin-top: 40px;
+  padding: 10px 0px;
+  text-align: center;
+  color: rgb(148, 139, 139);
+  background-color: rgb(3, 3, 3);
+
+}
